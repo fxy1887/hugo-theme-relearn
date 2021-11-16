@@ -1,8 +1,8 @@
 [Search-placeholder]
-other = "Search..."
+other = "搜索..."
 
 [Clear-History]
-other = "Clear History"
+other = "清除浏览历史"
 
 [Attachments-label]
 other = "Attachments"
@@ -20,7 +20,7 @@ other = "Go to homepage"
 other = "Edit this page"
 
 [Shortcuts-Title]
-other = "More"
+other = "---------"
 
 [Expand-title]
 other = "Expand me..."
